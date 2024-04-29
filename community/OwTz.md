@@ -3,17 +3,19 @@
 <p> Estou tentando me tornar programador, gosto muito de técnologia desde criança e a programação me chamou bastante atenção, estou sempre procurando evoluir e aprender novas técnologias </p>
 
 # 
+
 aqui está algumas Estatisticas do meu GIT 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owtz&show_icons=true&theme=transparent)
 
-# 
+#
 
 # 🔍 Linguagens e Skills
 
 - Linguagens 👨‍💻
+|Linguagem | usabilidade |
+|----|----|
 | java | Linguagem de Programação para o back-End |
-|---|---|
 | PHP | Linguagem de Programação  |
 |java Script |  Linguagem de Programação para Front-end|
 | HTML | Linguagem de Marcação  |
